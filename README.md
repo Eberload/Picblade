@@ -42,6 +42,16 @@ Picblade is software for cropping images into sections. It allows you to define 
 <p align="justify">One single zone: A "Save As" dialog box opens. The suggested name follows the format of the original name. You can change the name and extension.</p>
 <p align="justify">Multiple zones: First, a destination folder is requested. Then, a list of available formats appears: original image format, PNG, JPEG, BMP, GIF, TIFF, or WebP. Upon confirmation, all zones are automatically saved within the selected folder with the automatic zone name and number.</p>
 
+<div align="center">
+  <p><strong>¡Gracias por usar Picblade!</strong></p>
+  </p><strong>Si te es útil, considera donar.💰</strong></p>
+  <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+  <p></p>
+<p></p>
+</div>
+
 ![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/3.1.0.0.png)
 
 # Picblade - Corta una imagen en múltiples sectores
@@ -87,6 +97,16 @@ Picblade es un software para recortar imágenes en sectores. Permite definir mú
 <p align="justify">El botón Exportar funciona de dos maneras según la cantidad de zonas:</p>
 <p align="justify">Una sola zona: se abre un cuadro de diálogo «Guardar como». El nombre sugerido sigue el formato del nombre original. Puedes cambiar el nombre y la extensión. </p>
 <p align="justify">Múltiples zonas: primero se solicita una carpeta de destino. Luego aparece una lista con los formatos disponibles: formato original de la imagen, PNG, JPEG, BMP, GIF, TIFF o WebP. Al confirmar, todas las zonas se guardan automáticamente dentro de la carpeta seleccionada con el nombre y el numero de zona automático. </p>
+
+<div align="center">
+  <p><strong>¡Gracias por usar Picblade!</strong></p>
+  </p><strong>Si te es útil, considera donar.💰</strong></p>
+  <a href="https://ko-fi.com/eberload" target="_blank" rel="noopener noreferrer">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi">
+  </a>
+  <p></p>
+<p></p>
+</div>
 
 <div align="justify">
  <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
