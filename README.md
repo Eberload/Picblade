@@ -1,4 +1,4 @@
-# Picblade - Easily crop an image into multiple sections
+# Picblade - Crop an image into multiple sections
 
 ![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/1.1.0.0.png)
 
@@ -19,6 +19,8 @@ Picblade is software for cropping images into sections. It allows you to define 
 - If you use antivirus software, make sure it allows execution (false positives are common with .exe files).
 - The executable includes all necessary dependencies.
 
+![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/2.1.0.0.jpg)
+
     
 # STEP-BY-STEP OPERATION
 <p align="justify">Open an image: Click the "Open Image" button or drag a compatible image file (PNG, JPG, BMP, GIF, TIFF, WebP) into the workspace. The image will load and be displayed centered.</p>
@@ -30,6 +32,53 @@ Picblade is software for cropping images into sections. It allows you to define 
 <p align="justify">To resize: click on any of the visible handles and drag it.</p>
 <p align="justify">Delete an area: Select the area you want to delete and press the Delete key or click the "Delete area" button.</p>
 <p align="justify">Clean all areas: The "Clean areas" button deletes all areas created in the current image at once.</p>
+
+# IMPORTANT
+
+- The areas will be lost if you close the image or application without exporting. A warning will always appear before closing if there are unsaved areas.
+- It is not possible to edit the number or name of a zone from the interface. If you need to rename the output files, do so manually after exporting.
+
+# EXPORT
+<p align="justify">The Export button works in two ways depending on the number of zones:</p>
+<p align="justify">One single zone: A "Save As" dialog box opens. The suggested name follows the format of the original name. You can change the name and extension.</p>
+<p align="justify">Multiple zones: First, a destination folder is requested. Then, a list of available formats appears: original image format, PNG, JPEG, BMP, GIF, TIFF, or WebP. Upon confirmation, all zones are automatically saved within the selected folder with the automatic zone name and number.</p>
+
+![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/3.1.0.0.png)
+
+# Picblade - Corta una imagen en múltiples sectores
+
+![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/4.1.0.0.png)
+
+<p align="justify">
+Picblade es un software para recortar imágenes en sectores. Permite definir múltiples áreas sobre una foto o imagen para exportarlas de manera independiente con un solo clic. Ideal para diseñadores, editores digitales o cualquier persona que necesite extraer fragmentos precisos de una imagen sin depender de programas complejos.
+</p>
+
+<p align="center">
+ <i><a href="https://github.com/Eberload/Picblade/releases">
+    Descarga la versión más reciente aquí.
+  </a></i>
+</p>
+
+# EXECUTION
+
+- Descarga el archivo ejecutable "Picblade.exe" desde el enlace proporcionado por el desarrollador.
+- No requiere instalación: simplemente ejecuta el archivo ".exe" haciendo doble clic.
+- Si usas antivirus, asegúrate que permita la ejecución (los falsos positivos son comunes en .exe).
+- El ejecutable incluye todas las dependencias necesarias.
+
+![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/2.1.0.0.jpg)
+
+    
+# FUNCIONAMIENTO PASO A PASO
+<p align="justify">Abrir una imagen: haz clic en el botón «Abrir imagen» o arrastra un archivo de imagen compatible (PNG, JPG, BMP, GIF, TIFF, WebP) hasta el espacio de trabajo. La imagen se cargará y se mostrará centrada.</p>
+<p align="justify">Navegar por la imagen: gira la rueda del ratón hacia adelante para acercar y hacia atrás para alejar, con el clic derecho y arrastrando puedes mover la imagen.</p>
+<p align="justify">Transformar la imagen completa: los botones del grupo Transformar aplican giros o reflejos a la imagen completa. Usa estas opciones si necesitas corregir la orientación antes de recortar.</p>
+<p align="justify">Definir zonas de recorte: con la imagen cargada, haz clic izquierdo y arrastra con el botón del ratón sobre la imagen. Se dibujará un rectángulo verde semitransparente. Al soltar, la zona queda creada con un número secuencial automático. Repite el proceso para añadir todas las zonas que necesites. </p>
+<p align="justify">Seleccionar una zona: haz clic sobre cualquier rectángulo verde. La zona seleccionada se resalta con un borde más grueso y muestra manejadores (pequeños cuadrados) en las esquinas y puntos medios de la zona.</p>
+<p align="justify">Mover o redimensionar una zona: Para mover: coloca el cursor dentro de la zona seleccionada (el cursor cambiará a una cruz) y arrastra. Para redimensionar: haz clic en cualquiera de los manejadores visibles y arrástralo.</p>
+<p align="justify">Eliminar una zona: selecciona la zona que deseas eliminar y presiona la tecla Suprimir (Delete) o haz clic en el botón «Eliminar zona».</p>
+<p align="justify">Delete an area: Select the area you want to delete and press the Delete key or click the "Delete area" button.</p>
+<p align="justify">Limpiar todas las zonas: el botón «Limpiar zonas» borra de una vez todos las zonas creadas en la imagen actual.</p>
 
 # IMPORTANT
 
