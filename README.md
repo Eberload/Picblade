@@ -41,8 +41,6 @@ Picblade is software for cropping images into sections. It allows you to define 
 <p align="justify">One single zone: A "Save As" dialog box opens. The suggested name follows the format of the original name. You can change the name and extension.</p>
 <p align="justify">Multiple zones: First, a destination folder is requested. Then, a list of available formats appears: original image format, PNG, JPEG, BMP, GIF, TIFF, or WebP. Upon confirmation, all zones are automatically saved within the selected folder with the automatic zone name and number.</p>
 
-![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/2.1.0.0.png)
-
 <div align="justify">
  <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
 <i><p>Application compatible with: Windows x64; Linux x64</p></i>
