@@ -118,5 +118,5 @@ Picblade es un software para recortar imágenes en sectores. Permite definir mú
 ![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/6.1.0.0.png)
 
 <div align="center">
-<p><i>Picblade AppImage running on Linux.</i></p>
+<p><i>Picblade running on Linux.</i></p>
 </div>
