@@ -111,7 +111,7 @@ Picblade es un software para recortar imágenes en sectores. Permite definir mú
 </div>
 
 <div align="justify">
- <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文</p>
+ <p>INTERFACE LANGUAGES: Bahasa Indonesia, Deutsch, English, Español, Français, Italiano, Kiswahili, Português, Tiếng Việt, Türkçe, Русский, українська мова, اردو, العربية, हिन्दी, বাংলা, ภาษาไทย, 한국어, 日本語, 简体中文, Nederlands, Svenska, Norsk, Dansk, Suomi, Polski.</p>
 <i><p>Application compatible with: Windows x64; Linux x64</p></i>
 </div>
 
