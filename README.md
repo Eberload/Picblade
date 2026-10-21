@@ -93,7 +93,7 @@ Picblade es un software para recortar imágenes en sectores. Permite definir mú
 
 # IMPORTANTE
 - Las zonas se pierden si cierras la imagen o la aplicación sin exportar. Siempre aparecerá una advertencia antes de cerrar cuando existan zonas sin guardar.
-- No es posible editar el número o nombre de una zona desde la interfaz. Si necesitas renombrar los archivos de salida, hazlo manualmente después de la exportación.
+- No es posible editar el número o nombre de una zona desde la interfaz. Si necesitas renombrar los archivos de salida, hágalo manualmente después de exportar.
 
 # EXPORTAR
 <p align="justify">El botón Exportar funciona de dos maneras según la cantidad de zonas:</p>
