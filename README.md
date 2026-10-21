@@ -1,6 +1,6 @@
 # Picblade - Crop an image into multiple sections
 
-![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/1.1.0.0.png)
+![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/1.1.1.1.png)
 
 <p align="justify">
 Picblade is software for cropping images into sections. It allows you to define multiple areas on a photo or image and export them independently with a single click. Ideal for designers, digital editors, or anyone who needs to extract precise fragments from an image without relying on complex programs.
@@ -32,7 +32,7 @@ Picblade is software for cropping images into sections. It allows you to define 
 <p align="justify">Delete an area: Select the area you want to delete and press the Delete key or click the "Delete area" button.</p>
 <p align="justify">Clean all areas: The "Clean areas" button deletes all areas created in the current image at once.</p>
 
-![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/7.1.0.0.png)
+![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/7.1.1.1.png)
 
 # IMPORTANT
 - The areas will be lost if you close the image or application without exporting. A warning will always appear before closing if there are unsaved areas.
@@ -57,7 +57,7 @@ Picblade is software for cropping images into sections. It allows you to define 
 
 # Picblade - Corta una imagen en múltiples sectores
 
-![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/4.1.0.0.png)
+![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/4.1.1.1.png)
 
 <p align="justify">
 Picblade es un software para recortar imágenes en sectores. Permite definir múltiples áreas sobre una foto o imagen para exportarlas de manera independiente con un solo clic. Ideal para diseñadores, editores digitales o cualquier persona que necesite extraer fragmentos precisos de una imagen sin depender de programas complejos.
@@ -89,7 +89,7 @@ Picblade es un software para recortar imágenes en sectores. Permite definir mú
 <p align="justify">Eliminar una zona: selecciona la zona que deseas eliminar y presiona la tecla Suprimir (Delete) o haz clic en el botón «Eliminar zona».</p>
 <p align="justify">Limpiar todas las zonas: el botón «Limpiar zonas» borra de una vez todos las zonas creadas en la imagen actual.</p>
 
-![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/8.1.0.0.png)
+![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/8.1.1.1.png)
 
 # IMPORTANTE
 - Las zonas se pierden si cierras la imagen o la aplicación sin exportar. Siempre aparecerá una advertencia antes de cerrar cuando existan zonas sin guardar.
@@ -115,7 +115,7 @@ Picblade es un software para recortar imágenes en sectores. Permite definir mú
 <i><p>Application compatible with: Windows x64; Linux x64</p></i>
 </div>
 
-![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/6.1.0.0.png)
+![alt text](https://github.com/Eberload/Picblade/blob/main/Screenshots/6.1.1.1.png)
 
 <div align="center">
 <p><i>Picblade running on Linux.</i></p>
